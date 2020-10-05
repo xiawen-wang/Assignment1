@@ -1,0 +1,6 @@
+mypasswordsfile
+*.pdf
+*.c
+*.log
+**/fastq.gz
+!bowtie2.log
